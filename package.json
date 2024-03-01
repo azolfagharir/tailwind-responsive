@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "tailwindcss": "^3.4.1"
+  },
+  "name": "tailwind-practice-2",
+  "version": "1.0.0",
+  "main": "tailwind.config.js",
+  "devDependencies": {},
+  "scripts": {
+    "n": "  tailwindcss -i ./src/input.css -o ./src/output.css --watch"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}

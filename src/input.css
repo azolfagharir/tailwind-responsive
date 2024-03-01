@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Grid Visualization */
+.favorite-border{
+  @apply  border-solid border-2 border-indigo-600;
+}
